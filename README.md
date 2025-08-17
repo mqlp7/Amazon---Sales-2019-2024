@@ -30,8 +30,17 @@ The goal is to extract insights about total sales, orders, customers, and profit
 ---
 
 ## 👤 Author
-[Rayan]
-LinkedIn:https://www.linkedin.com/in/rayan-aldawood-661a11334/
-*[اسمك]*  
-- LinkedIn: [ضع رابط حسابك]  
-- GitHub: [ضع رابط البروفايل]
+ [Rayan]
+- LinkedIn:[https://www.linkedin.com/in/rayan-aldawood-661a11334/]  
+
+
+
+
+
+
+
+
+
+
+
+
